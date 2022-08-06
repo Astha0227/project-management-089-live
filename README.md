@@ -1,2 +1,2 @@
 # project-management-089-live
-Django project management project. 
+Django project on simple project managemet system. 
